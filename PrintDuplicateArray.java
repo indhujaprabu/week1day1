@@ -17,7 +17,7 @@ public class PrintDuplicateArray {
 				
 				{
 					count++;
-					System.out.println("First array variable" + arr[i]);
+					System.out.println("Print Duplicate Array" + arr[i]);
 				}
 			}
 			
