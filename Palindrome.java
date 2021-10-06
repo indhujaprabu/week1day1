@@ -7,7 +7,7 @@ public class Palindrome {
 		String str = "madam";
 		String str1 = "madam";
 		System.out.println("The given string is " + str);
-
+                System.out.println("The given string is " + str1);
 		if (str.equals(str1))
 			System.out.println("Palindrome");
 		else
